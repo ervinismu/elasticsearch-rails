@@ -1,5 +1,5 @@
 # elasticsearch-rails
-example using elasticsearch in ruby on rails application
+Elasticsearch + Kibana + Searchkick + Ruby on Rails
 
 ### Pre
 *	Kibana (optional)
@@ -11,7 +11,7 @@ example using elasticsearch in ruby on rails application
 *	Rails	|	`rails s`
 * Kibana	|	`sudo systemctl start kibana.service`
 
-notes:
+notes: </br>
 Open kibana page in `localhost:5601/app/kibana`
 
 ### Author
