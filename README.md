@@ -1,5 +1,5 @@
 # elasticsearch-rails
-Elasticsearch + Kibana + Searchkick + Ruby on Rails
+example using Elasticsearch + Kibana + Searchkick + Ruby on Rails
 
 ### Pre
 *	Kibana (optional)
