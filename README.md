@@ -12,8 +12,8 @@ example using Elasticsearch + Kibana + Searchkick + Ruby on Rails
 *	Rails	|	`rails s`
 * Kibana	|	`sudo systemctl start kibana.service`
 
-notes: </br>
-Open kibana page in `localhost:5601/app/kibana`
+>Notes: </br>
+>Open kibana page in `localhost:5601/app/kibana`
 
 ### Author
 ervinismu | social.ervin@gmail.com
