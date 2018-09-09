@@ -7,6 +7,9 @@ example using elasticsearch in ruby on rails application
 *	Ruby 2.5 or higher
 
 ### Run
+*	Elasticsearch | `.bin/elasticsearch`
+*	Rails	|	`rails s`
+* Kibana	|	`sudo systemctl start kibana.service`
 
 ### Author
 ervinismu | social.ervin@gmail.com
