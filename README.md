@@ -1,5 +1,5 @@
 # elasticsearch-rails
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()</br>
 example using Elasticsearch + Kibana + Searchkick + Ruby on Rails
 
 ### Pre
