@@ -3,7 +3,7 @@
 example using Elasticsearch + Kibana + Searchkick + Ruby on Rails
 
 ### Pre
-*	Kibana (optional)
+*	Kibana 
 * Elasticsearch v 5.x or higher
 *	Ruby 2.5 or higher
 
