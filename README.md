@@ -9,8 +9,8 @@ example using Elasticsearch + Kibana + Searchkick + Ruby on Rails
 
 ### Run
 *	Elasticsearch | `.bin/elasticsearch`
-*	Rails	|	`rails s`
 * Kibana	|	`sudo systemctl start kibana.service`
+* Start Indexing | `rake searchkick:reindex:all`
 
 >Notes: </br>
 >Open kibana page in `localhost:5601/app/kibana`
