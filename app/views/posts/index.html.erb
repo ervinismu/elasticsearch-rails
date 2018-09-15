@@ -1,5 +1,10 @@
 <p id="notice"><%= notice %></p>
 
+<%= form_tag(posts_path, method: :get) %>
+  <%= text_field_tag :search %>
+  <%= submit_tag 'Search' %>
+<% end %>
+
 <h1>Posts</h1>
 
 <table>
